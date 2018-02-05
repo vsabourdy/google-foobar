@@ -20,6 +20,11 @@
 #
 # ===================
 # Due to some dark bug, my time to send the solution was expired even if I had plenty of hours left.
+#
+# The direct translation of the alphabet into Braille using an array was for me the simpliest and most effective way.
+# There is some kind of patterns to calculate Braille letters (http://www.brl.org/intro/session02/abcs.html)
+# But it would just add unwanted complexity.
+# With this solution, you can easily maintain the code. Numbers translation can be effortlessly implemented.
 # ===================
 
 
